@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://climasync.netlify.app/" target="_blank">Demo: https://climasync.netlify.app/</a>
+  <a href="https://thelittleshop.netlify.app/" target="_blank">https://thelittleshop.netlify.app/</a>
 </p>
 
