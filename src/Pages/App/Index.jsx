@@ -1,11 +1,11 @@
 import { useRoutes, BrowserRouter } from "react-router-dom";
 import { ShoppingCartProvider } from "../../Context";
 import Home from "../Home/Index";
-import MyAccount from "../MyAccount";
+//import MyAccount from "../MyAccount";
 import MyOrder from "../MyOrder";
 import MyOrders from "../MyOrders";
 import NotFound from "../NotFound";
-import SignIn from "../SignIn";
+//import SignIn from "../SignIn";
 import NavBar from "../../Components/NavBar";
 import CheckoutSideMenu from "../../Components/CheckoutSideMenu";
 import "./App.css";
