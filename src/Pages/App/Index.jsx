@@ -2,7 +2,7 @@ import { useRoutes, BrowserRouter } from "react-router-dom";
 import { ShoppingCartProvider } from "../../Context";
 import Home from "../Home/Index";
 //import MyAccount from "../MyAccount";
-import MyOrder from "../MyOrder";
+import MyOrder from "../MyOrder/Index.jsx";
 import MyOrders from "../MyOrders";
 import NotFound from "../NotFound";
 //import SignIn from "../SignIn";
