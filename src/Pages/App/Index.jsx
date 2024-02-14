@@ -3,11 +3,11 @@ import { ShoppingCartProvider } from "../../Context";
 import Home from "../Home/Index";
 //import MyAccount from "../MyAccount";
 import MyOrder from "../MyOrder/Index.jsx";
-import MyOrders from "../MyOrders";
-import NotFound from "../NotFound";
+import MyOrders from "../MyOrders/Index.jsx";
+import NotFound from "../NotFound/Index.jsx";
 //import SignIn from "../SignIn";
-import NavBar from "../../Components/NavBar";
-import CheckoutSideMenu from "../../Components/CheckoutSideMenu";
+import NavBar from "../../Components/NavBar/index.jsx";
+import CheckoutSideMenu from "../../Components/CheckoutSideMenu/index.jsx";
 import "./App.css";
 
 const AppRoutes = () => {
